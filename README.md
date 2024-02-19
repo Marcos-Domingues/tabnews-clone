@@ -1,3 +1,3 @@
 # tabnews-clone
 
-curso do Deschamps
+A course by Filipe Deschamps
